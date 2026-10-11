@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace YOUR-DOMAIN-HERE.example with your final site address
+Sitemap: https://YOUR-DOMAIN-HERE.example/sitemap.xml
